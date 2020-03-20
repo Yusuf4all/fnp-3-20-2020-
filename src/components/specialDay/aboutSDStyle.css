@@ -1,0 +1,39 @@
+#AboutSpecialDay{
+    margin-top: 30px;
+}
+#AboutSpecialDay h2{
+    font-size: 18.8px;
+    color: #9BD7F6;
+}
+#AboutSpecialDay p{
+    font-size: 13px;
+    color: #242424;
+    line-height: 16px;
+    margin: 10px 0px;
+}
+#AboutSpecialDay h6{
+    font-weight: bold;
+    font-size: 14px;
+}
+#AboutSpecialDay table{
+    font-size:  12px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#AboutSpecialDay .blogs h1{
+    font-size: 19.6px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#AboutSpecialDay .blogs h5{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px 0;
+    line-height: 20px;
+}
+
+#AboutSpecialDay .blogs .read{
+    color: #31afac;;
+}

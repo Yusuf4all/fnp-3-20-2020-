@@ -1,0 +1,123 @@
+#product {
+    height: 500px;
+}
+
+#product .product_nav ul li {
+    color: #222;
+    font-size: 12px;
+    padding: 15px 0px;
+}
+
+#product .product_nav ul li i {
+    padding: 0px 5px;
+}
+
+#product .product_img .card {
+    width: 500px;
+    height: 400px;
+}
+
+#product .product_img .logo {
+    margin-top: 20px;
+}
+
+#product .product_img .logo img {
+    height: 50px;
+    width: 200px;
+}
+
+#product .product_img .logo ul {
+    margin-left: 20px;
+}
+
+#product .product_img .logo ul li {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+#product .product_img .logo ul li i {
+    font-size: 16px;
+}
+
+#product .product_info {
+    height: 460px;
+    margin-left: 20px;
+    overflow-y: scroll;
+}
+
+#product .product_info h2 {
+    font-size: 18px;
+    color: #222;
+    font-weight: 400;
+    line-height: 20px;
+    text-overflow: ellipsis;
+}
+
+#product .product_info h3 {
+    font-size: 20px;
+    margin-top: 9px;
+    font-weight: 400;
+    color: #E53333;
+}
+
+#product .product_info h3 span {
+    font-size: 40px;
+}
+
+#product .product_info p {
+    font-size: 12px;
+}
+
+#product .product_info select, .calender {
+    height: 50px;
+    width: 250px;
+    margin: 20px 30px 20px 0px;
+    border-radius: 5px;
+}
+
+#product .product_info .files {
+    margin-bottom: 10px;
+}
+
+#product .product_info .product_buttons button {
+    height: 50px;
+    color: #ffff;
+    margin-right: 30px;
+    width: 250px;
+}
+
+#product .product_info .product_buttons button i {
+    padding-right: 10px;
+}
+
+#product .product_info .desc h3 {
+    color: #222;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d5d5d5;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#product .product_info .desc p {
+    margin: 15px 0 5px 0;
+    line-height: 18px;
+    font-size: 13px;
+    color: #000;
+}
+
+#product .product_info .desc ul li {
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+
+.product_info::-webkit-scrollbar {
+    width: 10px;
+    background-color: transparent;
+}
+
+.product_info::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 50px;
+}

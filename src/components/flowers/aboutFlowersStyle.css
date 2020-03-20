@@ -1,0 +1,13 @@
+#AboutFlowers{
+    margin-top: 30px;
+}
+#AboutFlowers h2{
+    font-size: 18.8px;
+    color: #9BD7F6;
+}
+#AboutFlowers p{
+    font-size: 13px;
+    color: #242424;
+    line-height: 16px;
+    margin: 10px 0px;
+}

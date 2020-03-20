@@ -1,0 +1,45 @@
+.decorate{
+    text-decoration: none;
+}
+#anniversaryHead{
+    margin-top: 30px;
+   
+}
+#anniversaryHead .category_disc h1{
+    color: #de3252;
+    font-size: 26px;
+}
+#anniversaryHead .category_disc p{
+    font-family: 'roboto',sans-serif;
+    color: #666;
+    line-height: 20px;
+}
+
+#anniversaryHead .category_items{
+    margin-top: 30px;
+}
+#anniversaryHead .category_items ul li {
+    height: 83px;
+    width: 83px;
+    transition: 0.2s;
+
+}
+#anniversaryHead .category_items ul li img{
+    border: 2px solid #fff;
+    border-radius: 50%;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+}
+#anniversaryHead .category_items ul li:hover{
+    transform: translateY(-10px);
+}
+#anniversaryHead .category_items ul li p{
+    text-align: center;
+    color: #222;
+    padding: 5px 0px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#anniversaryHead .navigation{
+    margin-top: 20px;
+}
